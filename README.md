@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚 My fascination with technology began in high school, thanks to a Java programming course that opened my eyes to the world of software. The elegance of algorithms intrigued me, firmly establishing my path in software engineering and data science.
+
+💼 Professionally, I've embarked on diverse projects ranging from NLP projects, customer order analysis, churn model development, and sales forecasting for companies like Walmart. I've also developed 3D Unity games and full-stack web applications, demonstrating my broad skill set in software and data engineering.
+
+🔧 My technical proficiency spans a wide array of tools and languages, including Pandas, Python, Pyspark, Databricks, Snowflake, and Unity, alongside foundational skills in software development principles, database management, and advanced data analytics techniques such as supervised and unsupervised learning.
+
+🌍 Beyond the Code: Alongside my role as a portrait photographer, I cherish solo travel, diving into different cultures, and savoring the world's open expanse. My affection for the culinary arts keeps me grounded, with a passion for baking and crafting Chinese cuisine, stitching my identity with the threads of exploration, artistry, and the warmth of comfort food.
+
+🚀 Future Aspirations: My future aspirations lie in deepening my expertise in data science and engineering. I am committed to continuous learning and applying my knowledge to tackle complex problems, aiming to contribute meaningfully to this field.
